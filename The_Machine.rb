@@ -21,4 +21,15 @@ end
 selected_category = gets.chomp
 puts "You have selected category #{selected_category}: #{categories[selected_category]}"
 
-# # Add code to display a random question based on the selected category
+filename = "#{selected_category}.txt"
+if File.exist?(filename)
+  questions = File.readlines(filename, chomp: true)
+  if questions.any?
+    puts "Here is a random question from category #{selected_category}:"
+    puts questions.sample
+  else
+    puts "There are no questions in this category."
+  end
+else
+  puts "Invalid category selected."
+end
