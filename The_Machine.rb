@@ -21,4 +21,4 @@ end
 selected_category = gets.chomp
 puts "You have selected category #{selected_category}: #{categories[selected_category]}"
 
-# Here you can add your code to display a random question based on the selected category
+# # Add code to display a random question based on the selected category
