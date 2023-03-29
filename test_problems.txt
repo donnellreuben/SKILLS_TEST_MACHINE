@@ -1,0 +1,305 @@
+1: (If, Else, Elsif)
+
+Use a variable to store a number, then write a condition that prints 0 if the number is equal to 10, and prints -1 otherwise.
+
+Use a variable to store a number, then write a condition that prints -1 if the number is less than 10, prints 1 if the number is greater than 10, and prints 0 if the number is equal to 10.
+
+Use variables to store two numbers, then write a condition that prints 1 if the numbers are both less than 10, and prints 0 otherwise.
+
+Use a variable to store a number, then write a condition that prints 1 if the number is over 9000, and prints -1 otherwise.
+
+Use a variable to store a number, then write a condition that prints 9 if the number is less than 10, prints 19 if the number is less than 20, prints 29 if the number is less than 30, and prints -1 otherwise (only one print statement should occur).
+
+Use variables to store two numbers, then write a condition that prints 100 if either number is greater than 10, and prints -100 otherwise.
+
+Use a variable to store a number, then write a condition that prints 1776 if the number is less than 0, and prints 1979 otherwise.
+
+Use a variable to store a number, then write a condition that prints 100 if the number equals 100, prints 99 if the number is equal to 99, and prints 0 otherwise.
+
+Use variables to store two numbers, then write a condition that prints 1 if the first number is less than zero and the second number is greater than 0, and prints 0 otherwise.
+
+Use a variable to store a number, then write a condition that prints 5 if the number is greater than 80, prints 4 if the number is greater than 60, prints 3 if the number is greater than 40, prints 2 if the number is greater than 20, and prints 1 otherwise (only one print statement should occur).
+
+
+2: (Strings)
+
+Write a program that uses variables to store a first and last name, then prints the full name in one line using string concatenation (the + operator).
+
+Write a program that uses variables to store a first and last name, then prints the full name in one line using string interpolation (the #{} operator).
+
+Write a program that asks the user to input a word. If the word is "marco", print "polo".
+
+Write a program that uses variables to store three different colors, then prints out a sentence using the colors with string concatenation (the + operator).
+
+Write a program that uses variables to store three different colors, then prints out a sentence using the colors with string interpolation (the #{} operator).
+
+Write a program that asks the user to enter a name. If the name is not "Santa", print "You're not Santa."
+
+Write a program that uses variables to store a book's title and author, then prints out a sentence using that information with string concatenation (the + operator).
+
+Write a program that uses variables to store a book's title and author, then prints out a sentence using that information with string interpolation (the #{} operator).
+
+Write a program that asks the user to enter a password. If the password is "Joshua", the program responds "Shall we play a game?". For any other password, the program responds "Access denied"
+
+Write a program that uses variables to store the names of three cities, then prints out a sentence using that information with string concatenation (the + operator).
+
+
+3: (built-in Methods for strings and numbers)
+
+Write a program that asks the user to enter a word, then prints that word with all capital letters.
+
+Write a program that asks the user to enter a number, then prints "That's a big number" if the number is greater than 100.
+
+Write a program that asks the user to enter two numbers, then prints the numbers added together.
+
+Write a program that asks the user to enter a word, then prints that word in reverse order.
+
+Write a program that asks the user to enter a number, then prints the number times 10.
+
+Write a program that asks the user to enter two words, then prints both words on the same line in all capital letters.
+
+Write a program that asks the user to enter a word, then prints the number of letters in the word.
+
+Write a program that asks the user to enter a number, then prints "That's a negative number" if the number is less than 0.
+
+Write a program that asks the user to enter two numbers, then prints the two numbers multiplied together.
+
+Write a program that asks the user to enter a word, then prints "That's a long word" if the word has more than 5 letters.
+
+
+4: (Loop basics)
+
+Write a while loop to print the numbers 1 through 10.
+
+Write a while loop that prints the word "hello" 5 times.
+
+Write a while loop that asks the user to enter a word and will run forever until the user enters the word "stop".
+
+Write a while loop that prints the numbers 0 through 100, increasing by 5 each time.
+
+Write a while loop that prints the number 9000 ten times.
+
+Write a while loop that asks the user to enter a number and will run forever until the user enters a number greater than 10.
+
+Write a while loop that prints the numbers 50 to 70.
+
+Write a while loop that prints the phrase "Around the world" 144 times.
+
+Write a while loop that asks the user to enter a word and will run forever until the user enters a word with more than 5 letters.
+
+Write a while loop that prints the even numbers from 2 to 40.
+
+
+5: (Array basics)
+
+
+Create an array to store 3 words. Then add two more words to the array and print the array on one line.
+
+Create an array to store 4 letters. Then change the second letter to a number and print the array on one line.
+
+Create an array to store 5 numbers. Then print out each number on separate lines with a while loop.
+
+Create an array to store 1 number. Then add three more numbers to the array and print the array on one line.
+
+Create an array to store 3 strings with lower case letters. Then change the third string to have all capital letters and print the array on one line.
+
+Create an array to store 3 names. Then print out each name on separate lines with a while loop.
+
+Create an array to store 2 strings. Then add one string to the array and print the array on one line.
+
+Create an array to store 5 numbers. Then change the first number to 10 times its original value and print the array on one line.
+
+Create an array to store 2 numbers. Then print out each number on separate lines with a while loop.
+
+Create an array to store names of 3 different countries. Then add one more country and print the array one line.
+
+
+6: (Hash basics)
+
+Make a hash to store a person's first name, last name, and email address. Then print each attribute on separate lines.
+
+Make an array of hashes to store the first name and last name for 3 different people. Then print out the first person's info.
+
+Make a hash to store prices for 3 different menu items. Then add a new menu item and price and print the hash to see the result.
+
+Make a hash to store a book's title, author, number of pages, and language. Then print each attribute on separate lines.
+
+Make an array of hashes to store the title and author for 3 different books. Then print out the third book's author.
+
+Make a hash to store 3 different states and their captitals. Then add a new state and capital and print the hash to see the result.
+
+Make a hash to store a laptop's brand, model, and year. Then print each attribute on separate lines.
+
+Make an array of hashes to store the brand and model for 3 different laptops. Then print out the second laptop's model.
+
+Make a hash to store definitions for 2 different words. Then add a new word and definition and print the hash to see the result.
+
+Make a hash to store a shirt's brand, color, and size. Then print each attribute on separate lines.
+
+
+7: (Functions)
+
+Write a function that takes in a number and returns the number times two. Then run the function and print the result.
+
+Write a function that takes in a string and returns the string with all capital letters. Then run the function and print the result.
+
+Write a function that takes in two numbers and returns the first number subtracted by the second. Then run the function and print the result.
+
+Write a function that takes in a number and returns the number times itself. Then run the function and print the result.
+
+Write a function that takes in a string and returns the first letter of the string. Then run the function and print the result.
+
+Write a function that takes in three strings and returns a string that combines all three strings with spaces in between. Then run the function and print the result.
+
+Write a function that takes in a number and returns the number as a string. Then run the function and print the result.
+
+Write a function that takes in a string and returns the string repeated 5 times. Then run the function and print the result.
+
+Write a function that takes in 3 numbers and returns the average (the sum divided by 3.0). Then run the function and print the result.
+
+Write a function that takes in a number and returns the number times 10 plus 30. Then run the function and print the result.
+
+
+8: (Mapping Arrays to new ones)
+
+Start with an array of numbers and create a new array with each number times 3.
+	For example, [1, 2, 3] becomes [3, 6, 9].
+
+Start with an array of strings and create a new array with each string upcased.
+	For example, ["hello", "goodbye"] becomes ["HELLO", "GOODBYE"].
+
+Start with an array of hashes and create a new array of string values from each hash's :name key.
+	For example, [{name: "Alice", age: 27}, {name: "Blane", age: 16}] becomes ["Alice", "Blane"].
+
+Start with an array of numbers and create a new array with each number plus 7.
+	For example, [1, 2, 3] becomes [8, 9, 10].
+
+Start with an array of strings and create a new array with each string's length.
+	For example, ["hello", "goodbye"] becomes [5, 7].
+
+Start with an array of hashes and create a new array of number values from each hash's :age key.
+	For example, [{name: "Alice", age: 27}, {name: "Blane", age: 16}] becomes [27, 16].
+
+Start with an array of numbers and create a new array with each number divided by 2.
+	For example, [1, 2, 3] becomes [0.5, 1.0, 1.5].
+
+Start with an array of strings and create a new array with each string's first letter only.
+	For example, ["hello", "goodbye"] becomes ["h", "g"].
+
+Start with an array of hashes and create a new array of number values from each hash's :age key times 2.
+	For example, [{name: "Alice", age: 27}, {name: "Blane", age: 16}] becomes [54, 32].
+
+Start with an array of numbers and create a new array with each number converted into a string.
+	For example, [1, 2, 3] becomes ["1", "2", "3"].
+
+
+9: (Array >> Shoveling)
+
+Start with an array of numbers and create a new array with only the numbers less than 20.
+    For example, [2, 32, 80, 18, 12, 3] becomes [2, 18, 12, 3].
+
+Start with an array of strings and create a new array with only the strings that start with the letter "w".
+    For example, ["winner", "winner", "chicken", "dinner"] becomes ["winner", "winner"].
+
+Start with an array of hashes and create a new array with only the hashes with prices greater than 5 (from the :price key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes [{name: "chair", price: 100}].
+
+Start with an array of numbers and create a new array with only the even numbers.
+    For example, [2, 4, 5, 1, 8, 9, 7] becomes [2, 4, 8].
+
+Start with an array of strings and create a new array with only the strings shorter than 4 letters.
+    For example, ["a", "man", "a", "plan", "a", "canal", "panama"] becomes ["a", "man", "a", "a"].
+
+Start with an array of hashes and create a new array with only the hashes with names shorter than 6 letters (from the :name key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes [{name: "chair", price: 100}, {name: "book", price: 4}].
+
+Start with an array of numbers and create a new array with only the numbers less than 10.
+    For example, [8, 23, 0, 44, 1980, 3] becomes [8, 0, 3].
+
+Start with an array of strings and create a new array with only the strings that don't start with the letter "b".
+    For example, ["big", "little", "good", "bad"] becomes ["little", "good"].
+
+Start with an array of hashes and create a new array with only the hashes with prices less than 10 (from the :price key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes [{name: "pencil", price: 1}, {name: "book", price: 4}].
+
+Start with an array of numbers and create a new array with only the odd numbers.
+    For example, [2, 4, 5, 1, 8, 9, 7] becomes [5, 1, 9, 7].
+
+
+10: (Reduce an Array)
+
+Start with an array of numbers and compute the sum of all the numbers.
+    For example, [5, 10, 8, 3] becomes 26.
+
+Start with an array of strings and combine them all into a single string.
+    For example, ["volleyball", "basketball", "badminton"] becomes "volleyballbasketballbadminton".
+
+Start with an array of hashes and compute the sum of the prices (from the :price key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes 105.
+
+Start with an array of numbers and compute the the minumum number.
+    For example, [5, 10, 8, 3, 9] becomes 3.
+
+Start with an array of strings and compute the total length of all the strings.
+    For example, ["volleyball", "basketball", "badminton"] becomes 29.
+
+Start with an array of hashes and find the hash with the lowest price (from the :price key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes {name: "pencil", price: 1}.
+
+Start with an array of numbers and compute product of all the numbers.
+    For example, [5, 10, 8, 3] becomes 1200.
+
+Start with an array of strings and combine them all into a single string, separated by dashes.
+    For example, ["volleyball", "basketball", "badminton"] becomes "-volleyball-basketball-badminton-".
+
+Start with an array of hashes and find the hash with the shortest name (from the :name key).
+    For example, [{name: "chair", price: 100}, {name: "pencil", price: 1}, {name: "book", price: 4}] becomes {name: "book", price: 4}.
+
+Start with an array of numbers and compute the maximum number.
+    For example, [5, 10, 8, 3] becomes 10.
+
+
+11: (Data Type Conversions: GitHub link broken_made up questions)
+
+Convert "5" into an integer. Hint: store "5" into a variable first.
+
+Convert 201 into a string. Hint: store 201 into a variable first.
+
+Covert this array ["Everyone", "loves", "biscuits"] into a string. Hint: store the array into a variable first.
+
+Convert "Everyone loves biscuits" into an array. Hint" store the string into a variable first.
+
+Trick question: Convert the string "smiley face" to a symbol. Hint: store the string into a variable then do variable.class to check if it is a symbol.
+
+
+12: (Loop within a Loop)
+
+Use a nested loop to convert an array of number pairs into a single flattened array.
+    For example, [[1, 3], [8, 9], [2, 16]] becomes [1, 3, 8, 9, 2, 16].
+
+Use a nested loop with two arrays of strings to create a new array of strings with each string combined.
+    For example, ["a", "b", "c"] and ["d", "e", "f", "g"] becomes ["ad", "ae", "af", "ag", "bd", "be", "bf", "bg", "cd", "ce", "cf", "cg"].
+
+Use a nested loop with one array of strings to create a new array that contains every combination of each string with every other string in the array.
+    For example, ["a", "b", "c", "d"] becomes ["ab", "ac", "ad", "ba", "bc", "bd", "ca", "cb", "cd", "da", "db", "dc"].
+
+Use a nested loop to find the largest product of any two different numbers within a given array.
+    For example, [5, -2, 1, -9, -7, 2, 6] becomes 63.
+
+Use a nested loop to compute the sum of all the numbers in an array of number pairs.
+    For example, [[1, 3], [8, 9], [2, 16]] becomes 39.
+
+Use a nested loop with two arrays of numbers to create a new array of the sums of each combination of numbers.
+    For example, [1, 2] and [6, 7, 8] becomes [7, 8, 9, 8, 9, 10].
+
+Use a nested loop with an array of numbers to compute an array with every combination of products from each number.
+    For example, [2, 8, 3] becomes [4, 16, 6, 16, 64, 24, 6, 24, 9].
+
+Use a nested loop to find the largest sum of any two different numbers within an array.
+    For example, [1, 8, 3, 10] becomes 18.
+
+Use nested loops with an array of numbers to compute a new array containing the first two numbers (from the original array) that add up to the number 10. If there are no two numbers that add up to 10, return false.
+    For example, [2, 5, 3, 1, 0, 7, 11] becomes [3, 7].
+
+Use a nested loop to convert an array of string arrays into a single string.
+    For example, [["a", "man"], ["a", "plan"], ["a", "canal"], ["panama"]] becomes "amanaplanacanalpanama".
