@@ -1,0 +1,9 @@
+Convert "5" into an integer. Hint: store "5" into a variable first.
+
+Convert 201 into a string. Hint: store 201 into a variable first.
+
+Covert this array ["Everyone", "loves", "biscuits"] into a string. Hint: store the array into a variable first.
+
+Convert "Everyone loves biscuits" into an array. Hint" store the string into a variable first.
+
+Trick question: Convert the string "smiley face" to a symbol. Hint: store the string into a variable then do variable.class to check if it is a symbol.
