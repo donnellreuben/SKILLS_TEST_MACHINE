@@ -43,7 +43,10 @@ loop do
   loop do
     puts ""
     puts ""
-    puts "Type 'done' to end the program, 'restart' to restart the program, or 'new' to get a new question in the same category."
+    puts ""
+    puts "'done' to end the program"
+    puts "'restart' to restart the program"
+    puts "'new' to get a new question in the same category."
     response = gets.chomp.downcase
     if response == "done"
       exit
